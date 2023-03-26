@@ -1,0 +1,2 @@
+# ISLicense
+Infernal Software License
