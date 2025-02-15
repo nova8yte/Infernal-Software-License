@@ -58,6 +58,6 @@ the use of such language shall be solely the responsibility of
 the individual using it.
 ```
 
-[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author=onlymice&quote=May%20the%20forces%20of%20darkness%20be%20with%20you!)](https://github.com/nova8yte/Infernal-Software-License)
+[![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&author=Aleksandra&quote=May%20the%20forces%20of%20darkness%20be%20with%20you!)](https://github.com/nova8yte/Infernal-Software-License)
 
 
